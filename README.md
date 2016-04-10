@@ -2,8 +2,11 @@
 Assignments of Machine Learning course on Coursera by Andrew Ng implemented in Python3.5
 
 - Assignment 1
-  * Univariate Linear Regression
-  * Multivariate Linear Regression
+  - [x] Univariate Linear Regression
+  - [x] Multivariate Linear Regression
 - Assignment 2
-  * Logistic Regression
-  * Regularized Logistic Regression
+  - [x] Logistic Regression
+  - [x] Regularized Logistic Regression
+- Assignment 3
+  - [ ] Multi-class Classification
+  - [ ] Neural Networks
